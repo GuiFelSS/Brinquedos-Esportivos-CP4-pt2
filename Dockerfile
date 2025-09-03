@@ -24,7 +24,7 @@ EXPOSE 8081
 WORKDIR /app
 
 # Copie o arquivo JAR gerado para a imagem final
-COPY --from=build /app/target/ChallengeMottu-0.0.1-SNAPSHOT.jar app.jar
+COPY --from=build /app/target/*.jar app.jar
 
 # Comando para executar o aplicativo
 ENTRYPOINT ["java", "-jar", "app.jar"]

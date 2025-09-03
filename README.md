@@ -181,7 +181,7 @@ mvn spring-boot:run
 ---
 
 ## ☁️ Deploy
-- Parte II (MVC/Thymeleaf): **[adicione aqui o link do deploy]**  
+- Parte II (MVC/Thymeleaf): **(https://brinquedos-esportivos-cp4-pt2-2.onrender.com)**  
 - Plataforma: Render.
 
 ---

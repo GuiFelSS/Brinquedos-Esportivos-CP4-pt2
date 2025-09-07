@@ -180,9 +180,11 @@ mvn spring-boot:run
 
 ---
 
-## ☁️ Deploy
-- Parte II (MVC/Thymeleaf): **(https://brinquedos-esportivos-cp4-pt2-2.onrender.com)**  
+## ☁️ Deploy e Video
+- Parte II (MVC/Thymeleaf): **([https://brinquedos-esportivos-cp4-pt2-2.onrender.com](https://brinquedos-esportivos-cp4-pt2-2.onrender.com/web/brinquedos))**  
 - Plataforma: Render.
+- Video Parte II: **([https://youtu.be/a1ddfvR4HaI](https://www.youtube.com/watch?v=a1ddfvR4HaI))
+- Plataforma: YouTube
 
 ---
 
